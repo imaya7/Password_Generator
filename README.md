@@ -7,8 +7,11 @@ The password generator is a code developed in Python to be able to generate two 
 
 ## b) Libraries/Modules Used 
 os - The os library is used for seeing if directories exist and if they don't exist os creates them
+
 random - The random library is used for generating random numbers, characters, and words 
+
 string - The string library contains a collection of strings 
+
 datetime - The datetime library is used for manipulating dates and time 
 
 
